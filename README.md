@@ -1,2 +1,2 @@
 # buggy
-A 'ladybird' badge for hardware.io
+A 'ladybird' badge for hardwear.io
