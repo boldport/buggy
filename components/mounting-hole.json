@@ -33,7 +33,7 @@
           "type": "circle",
           "diameter": 4.0,
           "layers": ["top", "bottom"],
-          "location": [-0.75,-0.75]
+          "location": [-0.5,-0.5]
         }
       ],
       "drills":
