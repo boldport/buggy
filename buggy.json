@@ -428,15 +428,7 @@
   }, 
   "shapes": {
     "copper": [], 
-    "pours": [
-      {
-        "layers": [
-          "bottom"
-        ], 
-        "style": "fill", 
-        "type": "layer"
-      }
-    ], 
+    "pours": [], 
     "silkscreen": [
       {
         "gerber-lp": "ddcccccccccc", 
