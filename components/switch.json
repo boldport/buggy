@@ -1,0 +1,110 @@
+{
+  "info": {
+    "description": "DPDT switch",
+    "manufacturer": "C&K",
+    "part-number": "JS202011SCQN",
+    "suppliers": {
+      "farnell": "2320019"
+    },
+    "notes": ""
+  },
+  "pins":
+  {
+  "1":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-2.5, 2.75]
+      }
+    },
+  "2":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [0, 2.75]
+      }
+    },
+  "3":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [2.5, 2.75]
+      }
+    },
+  "4":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-2.5, -2.75]
+      }
+    },
+  "5":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [0, -2.75]
+      }
+    },
+  "6":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [2.5, -2.75]
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 9.5,
+          "height": 3.7,
+          "location": [0, 0]
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 9,
+          "height": 3.2,
+          "location": [0, 0]
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 1.2,
+          "height": 2.5,
+          "radii": {
+            "bl": 0.05, 
+            "br": 0.05, 
+            "tl": 0.05, 
+            "tr": 0.05
+          }
+        }
+      ]
+    }
+  }
+}
