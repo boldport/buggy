@@ -1,2 +1,7 @@
 # buggy
-A 'ladybird' badge for hardwear.io
+A 'ladybird' board
+
+[http://boldport.com/buggy]
+
+![buggy layout](/images/buggy.png)
+
