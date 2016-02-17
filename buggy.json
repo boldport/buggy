@@ -4,8 +4,8 @@
       "footprint": "CR2032-battery-holder-smd", 
       "layer": "bottom", 
       "location": [
-        0.0, 
-        -6.4355552
+        0, 
+        -6.892818
       ], 
       "rotate": 0, 
       "show": true, 
@@ -339,7 +339,7 @@
       "layer": "bottom", 
       "location": [
         0, 
-        8.5
+        8.855667
       ], 
       "rotate": 0, 
       "show": true, 
@@ -446,6 +446,15 @@
     }
   }, 
   "shapes": {
+    "BPL": {
+      "footprint": "boldport-logo-b", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        -23.386664
+      ], 
+      "show": true
+    }, 
     "PRS": {
       "footprint": "pours", 
       "layer": "top", 
@@ -468,15 +477,6 @@
           "show": false
         }
       }
-    }, 
-    "SMSK": {
-      "footprint": "soldermask", 
-      "layer": "top", 
-      "location": [
-        0, 
-        0
-      ], 
-      "show": true
     }
   }, 
   "soldermask": {
